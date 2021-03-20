@@ -1,4 +1,4 @@
-# Luke's dmenu
+# My dmenu setup based on Luke Smith's original
 
 Extra stuff added to vanilla dmenu:
 
